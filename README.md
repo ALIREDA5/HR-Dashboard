@@ -60,6 +60,12 @@ Workforce growth or reduction trends over time
 
 ## **4. Dashboard Pages & Screenshots**
 
+### **Data Model**
+
+* Description: Snowflake Schema
+* Screenshot:
+  ![Data Model](screenshots/Data Model.png)
+  
 ### **Page 1: Workforce Overview**
 
 * Description: Headcount, department distribution
@@ -70,7 +76,7 @@ Workforce growth or reduction trends over time
 
 * Description: Provides a detailed view of the workforce’s demographic characteristics, including gender distribution, age groups, marital status, and tenure.
 * Screenshot:
-  ![demographics Dashboard](screenshots/Demographics.png)
+  ![demographics Dashboard](screenshots/Demografics.png)
 
 ### **Page 3: Employee Performance**
 
@@ -84,7 +90,11 @@ Workforce growth or reduction trends over time
 * Screenshot:
   ![Attrition Analysis](screenshots/Turnover.png)
 
+### **Page 5: Potential drivers of Attrition**
 
+* Description: Sales Representative with Over time tends more to leave the company
+* Screenshot:
+  ![Top Segment](screenshots/Top Segment.png)
 
 
 ---
