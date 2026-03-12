@@ -65,6 +65,12 @@ Workforce growth or reduction trends over time
 * Description: Snowflake Schema
 * Screenshot:
   ![Data Model](screenshots/Data_Model.png)
+
+### **Measures **
+
+* Description: Measures Description
+* Screenshot:
+  ![Data Model](screenshots/Measures_description.png)
   
 ### **Page 1: Workforce Overview**
 
