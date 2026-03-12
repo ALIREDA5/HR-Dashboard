@@ -64,7 +64,7 @@ Workforce growth or reduction trends over time
 
 * Description: Snowflake Schema
 * Screenshot:
-  ![Data Model](screenshots/Data Model.png)
+  ![Data Model](screenshots/Data_Model.png)
   
 ### **Page 1: Workforce Overview**
 
@@ -94,7 +94,7 @@ Workforce growth or reduction trends over time
 
 * Description: Sales Representative with Over time tends more to leave the company
 * Screenshot:
-  ![Top Segment](screenshots/Top Segment.png)
+  ![Top Segment](screenshots/Top_segment.png)
 
 
 ---
