@@ -64,25 +64,25 @@ Workforce growth or reduction trends over time
 
 * Description: Headcount, department distribution
 * Screenshot:
-  ![Workforce Overview](screenshots/workforce_overview.png)
+  ![Workforce Overview](screenshots/Overview.png)
 
 ### **Page 2: demographics**
 
 * Description: Provides a detailed view of the workforce’s demographic characteristics, including gender distribution, age groups, marital status, and tenure.
 * Screenshot:
-  ![Training Dashboard](screenshots/training.png)
+  ![demographics Dashboard](screenshots/Demographics.png)
 
 ### **Page 3: Employee Performance**
 
 * Description: Performance rating trends, top-performing teams
 * Screenshot:
-  ![Employee Performance](screenshots/performance.png)
+  ![Employee Performance](screenshots/Performance.png)
 
 ### **Page 4: Attrition & Retention**
 
 * Description: Attrition trends, tenure-based insights, high-turnover departments
 * Screenshot:
-  ![Attrition Analysis](screenshots/attrition.png)
+  ![Attrition Analysis](screenshots/Turnover.png)
 
 
 
