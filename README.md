@@ -130,9 +130,19 @@ Workforce growth or reduction trends over time
 
 ## **7. Insights & Recommendations**
 
-* Sales department: High attrition → Improve onboarding
-* Training increases performance → Encourage more programs
-* Early-tenure attrition → Mentorship programs for first 2 years
+* The organization currently has 1.23K total employees across multiple departments.
+* The largest departments are Technology and Sales.
+* Highest Average Salary is in  HR department.
+* The hiring rate is 11.9%, indicating a moderate expansion in workforce capacity.
+* Most employees fall in the 20–30 age group, suggesting a relatively young workforce.
+* Employees identified as White and Native Hawaiian have the highest average salaries compared to other demographic groups.
+* 44.2% of employees are married.
+* The workforce age ranges from 18 years (youngest employee) to 55 years (oldest employee).
+* Although the differences are not very large, the HR department still shows the strongest overall performance level.
+* The Sales department has the highest attrition rate, particularly The Sales Representative role has the highest turnover rate at 39.5%.
+* Employees who work overtime are more likely to leave the company.
+* The turnover rate decreases as the number of years in the company increases.
+
 
 ---
 
