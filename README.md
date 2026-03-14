@@ -18,7 +18,7 @@ management.
 
 ---
 
-## **3. Expected Insights
+## **3. Expected Insights**
 
 3.1 Workforce Overview
 
@@ -66,7 +66,7 @@ Workforce growth or reduction trends over time
 * Screenshot:
   ![Data Model](screenshots/Data_Model.png)
 
-### **Measures **
+### **Measures**
 
 * Description: Measures Description
 * Screenshot:
